@@ -11,3 +11,5 @@ https://qiita.com/ren0826jam/items/77c9b980365bd4f5197c
 
 5.サーバーサイド側の処理を実装する。
 
+6.クライアント側の処理を実装する。
+(多分、app/channel/room_channel.jsへ書き込むのだろう)
