@@ -1,24 +1,7 @@
-# README
+https://qiita.com/ren0826jam/items/77c9b980365bd4f5197c
+上頁のActionCable機能を実装してみて実際のActionCableの動きを分かろうと考える。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1.チャットルーム画面のコントローラーを作成する。
 
-Things you may want to cover:
+2.チャットメッセージを格納するモデルを作成する。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
