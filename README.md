@@ -13,3 +13,5 @@ https://qiita.com/ren0826jam/items/77c9b980365bd4f5197c
 
 6.クライアント側の処理を実装する。
 (多分、app/channel/room_channel.jsへ書き込むのだろう)
+
+結論：ちょっとview側が淡白すぎて挙動が分からなかった。別頁のを作ってみよう。
